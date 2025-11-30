@@ -141,7 +141,7 @@ export default function App() {
           </p>
           <div className="flex justify-center gap-6 text-2xl">
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:judinaugustin007@gmail.com"
               className="hover:text-blue-500 transition-colors"
             >
               <FaEnvelope />
