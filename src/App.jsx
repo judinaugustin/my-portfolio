@@ -29,7 +29,7 @@ export default function App() {
     {
       title: "Shift-by-Wire Torque Analysis",
       desc: "Automotive ML project analyzing torque behavior in SBW/eATS systems.",
-      link: "#",
+      link: "https://github.com/judinaugustin/Explainable-AI-Automotive-Fault-Detection",
     },
   ];
 
