@@ -68,7 +68,7 @@ export default function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            Your Name
+            Judin Augustin
           </motion.h1>
           <motion.p
             className="text-lg text-gray-700 dark:text-gray-300 max-w-2xl mx-auto"
@@ -147,14 +147,14 @@ export default function App() {
               <FaEnvelope />
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/judinaugustin"
               target="_blank"
               className="hover:text-blue-500 transition-colors"
             >
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/judinaugustin"
               target="_blank"
               className="hover:text-blue-500 transition-colors"
             >
